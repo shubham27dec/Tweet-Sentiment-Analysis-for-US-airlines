@@ -1,2 +1,2 @@
 # Tweet-Sentiment-Analysis-for-US-airlines
-This project is created using Streamlit and python and it contains various kind of visualisations done on the kaggle dataset of tweet sentiment analysis for US airlines .
+Used Streamlit and Python on the kaggle dataset for US Airlines tweet sentiment to create a Interactive Dashboard.
